@@ -1,0 +1,5 @@
+- Scrolling should no longer be capable of breaking
+- BB appears less often at all AI levels
+- Freddy and Bonnie will cause the screen to flicker once they reach their 5th state now, rather than just a quick flash of black
+- ?
+- Freddy and Bonnie will now wait 5 seconds before getting a chance to kill you once they reach their 5th state

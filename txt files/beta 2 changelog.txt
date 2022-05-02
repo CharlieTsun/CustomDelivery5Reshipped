@@ -1,0 +1,8 @@
+- Faster scrollspeed
+- You can no longer shock or stabilize during jumpscares
+- BB's AI level has been lowered from 6 to 4 on night 1
+- The fade-in on the main menu has been centered
+- Freddy will now use his own jumpscare animation
+- Bonnie will now use his own jumpscare sound
+- Game over screen has been added
+- If BB is already onscreen when a jumpscare occurs, he will now play his leaving animation
