@@ -3,3 +3,11 @@
 - Freddy and Bonnie will cause the screen to flicker once they reach their 5th state now, rather than just a quick flash of black
 - ?
 - Freddy and Bonnie will now wait 5 seconds before getting a chance to kill you once they reach their 5th state
+- You can no longer shock at any entrance to get rid of an animatronic
+- Added a debug menu which can be accessed holding down B-A-L-V. This allows you to view RNG values and change certain aspects of the character's AI. Use the LEFT and RIGHT arrow keys while hovering over a white counter to change its value.
+- Added mask mechanic, can only be accessed through night 3 or the debug menu
+- Night 2 is playable
+- NEW CHARACTERS -
+Chica: She'll behave similarily to Freddy and Bonnie, however, she can approach from either entrance.
+Foxy: He'll behave similarily to Freddy and Bonnie, however he approaches from the front door. Unlike the others, he'll skip stages 1-4, and when he reaches stage 5 you'll hear him running towards the home yelling. You only have so long to shock him.
+Toy Freddy: Sometimes he'll appear when returning to the couch. The longer he's there, the more power he'll drain, eventually killing you if power has ran out. Put on the mask as quickly as possible to avoid this.
