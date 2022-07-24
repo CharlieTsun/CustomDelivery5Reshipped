@@ -1,0 +1,18 @@
+- Fixed Foxy appearing after any other animatronic has reached their final state
+- Fixed the toy animatronics appearing while moving
+- The mask button will now show up after hanging up on night 3 if you haven't already received it
+- Shadow Freddy easter egg is now 1/1000 chance, 10x rarer than before
+- Chica will now play a unique shocked sound effect
+- All audio in the game has been dechannelized, which should lead to less issues
+- Removed additional audio options
+- Added Screenshot mode to the debug menu, disables shocking
+- The character on the title screen will now randomize between any available option
+- Balloon Boy's animations have been smoothened, to appear less pixelated
+- Fixed Chica's static
+Mangle: He'll approach out the front door, always visible. Every time he moves, he'll drop a part. Find this part and click it to pick it up. Once he reaches the front door, put on the mask to get rid of him. Note that if there are any leftover parts, this will not succeed.
+Jack-O-Animatronics: When approaching the front door, there's a chance they'll show up, indicated by heavy breathing. If you open the door while they're there, you'll be jumpscared!
+Ballora: She'll approach either the hallway or the kitchen entrance, shock her when she reaches the entrance. While she's in the house, your noise meter will be sensitive to movement, letting it reach peak might result in a jumpscare. When she moves, she'll also drop minireenas, the more minireenas left lying around, the more sensitive your noise meter is.
+Springtrap: He'll approach out the front door, always visible. Watch out for his eye color. If they're white, then shock him once he arrives. If they're red, don't go to the front door once he arrives! Failing to do either one will result in a jumpscare.
+Funtime Freddy: He'll approach the hallway like a standard animatronic. However, once shocked, BonBon will hop off in either direction, be sure to get a close look at which direction he's headed! Once you hear him charging a few seconds later, quickly make it to the appropriate entrance and shock!
+Freddy Frostbear:
+8-bit Baby:
